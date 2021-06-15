@@ -34,3 +34,8 @@ li a:hover {
   Background: #ee964b;
   text-align: center;
 }
+body img {
+  position: absolute;
+  display: block;
+  left: 50%;
+}
